@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, C++ and Python!
 - 📫 How to reach me: [ngvt1n@proton.me](mailto:ngvt1n@proton.me)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: oatmeal enjoyer
+- ⚡ Fun fact: oat milk enjoyer
