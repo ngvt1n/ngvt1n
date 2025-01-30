@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo >:)
 
 <!--
 **ngvt1n/ngvt1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Currently: BS in Computer Science at Colby College
+- 🌱 I’m currently learning Godot and OpenGL
+- 💬 Ask me about Java, C++ and Python!
+- 📫 How to reach me: [ngvt1n@proton.me](mailto:ngvt1n@proton.me)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: oatmeal enjoyer
